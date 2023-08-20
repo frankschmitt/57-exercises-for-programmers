@@ -1,0 +1,4 @@
+= Basic
+Let the user input a string, and print the number of characters in the string.
+
+= Challenges
