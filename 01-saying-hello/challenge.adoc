@@ -1,0 +1,8 @@
+= Basic
+Let the user input their name, and print "hello, <name>"
+
+= Challenges
+* don't use variables
+* print a personalized greeting
+
+
