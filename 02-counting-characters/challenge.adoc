@@ -2,3 +2,5 @@
 Let the user input a string, and print the number of characters in the string.
 
 = Challenges
+* reject empty strings
+* build a GUI, and update the character count every time a key is pressed
