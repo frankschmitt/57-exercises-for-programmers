@@ -1,0 +1,3 @@
+= Synopsis
+Solution for the book "57 exercises for programmers"
+
